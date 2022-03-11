@@ -16,6 +16,7 @@ Next, I converted the temperature data into a list, and then put this list of te
 <img width="903" alt="Screen Shot 2022-03-11 at 11 58 20 AM" src="https://user-images.githubusercontent.com/96043107/157934050-2679ae2b-4640-412b-9169-2cd239560463.png">
 
 Finally, deliverable 1 is complete and the summary temperature statistice for the month of June are seen in the table below: 
+/
 <img width="115" alt="Screen Shot 2022-03-11 at 11 59 33 AM" src="https://user-images.githubusercontent.com/96043107/157934227-ad0cd554-ee88-4fe9-b7a2-79bb6fa5e802.png">
 
 #Deliverable 2- Finding the average Weather statistics for December#
@@ -29,6 +30,7 @@ Next, similar to steps taken in deliverable 1, I converted the temperature data 
 <img width="904" alt="Screen Shot 2022-03-11 at 12 04 15 PM" src="https://user-images.githubusercontent.com/96043107/157934815-01558466-7aad-4c6b-8047-639db13421e8.png">
 
 Finally, deliverable 2 is complete and the summary temperature statistics for the month of Decmeber are seen in the table below: 
+/
 <img width="116" alt="Screen Shot 2022-03-11 at 12 05 01 PM" src="https://user-images.githubusercontent.com/96043107/157934900-1b05e18f-500d-455b-b053-c9ddc4734cd5.png">
 
 #Differences in weather between June and December#
